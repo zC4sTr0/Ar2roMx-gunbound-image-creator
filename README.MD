@@ -44,7 +44,7 @@ This program was made using C# and .NET Framework 4.7.2
 
 <p  align="left">  <a  href="https://twitter.com/c4str0"  target="blank"><img  src="https://img.shields.io/twitter/follow/c4str0?logo=twitter&style=for-the-badge"  alt="c4str0"/></a>  </p>
 
-- 🔭 I’m currently working on [GunBound GITZ](www.gitzwc.com) as Founder/CEO and in DavinTI - a software development company - as a Full Stack Developer since 2020
+- 🔭 I’m currently working on [GunBound GITZ](www.gitzwc.com) as Founder/CEO 
 
 - 🌱 I’m currently studying **Solidity, Python and React Native**
 
